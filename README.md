@@ -4,7 +4,7 @@
 ## 使用說明
 
 ### 1. 設定Telegram Bot API 的 USERID 和 KEY 值
-####範例:
+#### 範例:
 USERID=( "-384689483" ) <br />
 KEY="792925382:AAFA5DWI-sWyRuOb_KFViAKg4mlJwgmGB5I" <br />
 ### 2. 複製腳本到 /etc/profile.d
